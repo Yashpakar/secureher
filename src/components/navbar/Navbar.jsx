@@ -30,7 +30,7 @@ const Navbar = () => {
           </a>
           <div className='flex flex-col'>
             <strong className=' text-2xl '>Secure <span className='text-accent-default'> her</span></strong>
-            <span className='text-xs ml-0.5'>you can always fill safe</span>
+            <span className='text-xs ml-0.5'>you can always feel safe</span>
           </div>
         </div>
         <ul className='flex flex-col gap-y-5'>
