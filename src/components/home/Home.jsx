@@ -12,7 +12,7 @@ const Home = () => {
           </a>
           <div className='flex flex-col'>
             <strong className=' text-4xl '>Secure <span className='text-accent-default'> her</span></strong>
-            <span className='text-sm ml-0.5'>you can always fill safe</span>
+            <span className='text-sm ml-0.5'>you can always feel safe</span>
           </div>
         </div>
         <div className="flex flex-col gap-y-4 lg:flex-row lg:gap-x-10 lg:gap-y-0">
